@@ -1,3 +1,8 @@
+Welcome to IDRL Documentation 
+=============================
+
+This is the official repository of documentation related to IDRL or the Indian Drone Racing League.
+
 Template
 ========
 
